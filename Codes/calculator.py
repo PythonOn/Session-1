@@ -1,18 +1,18 @@
-def add(a, b):
-    return a + b
-    #Evaluates a + b and returns the INTEGER result back to the point where this function was called from.
+def add(x, y):
+    return x + y
+    #Evaluates x + y and returns the INTEGER result back to the point where this function was called from.
 
 def sub(a, b):
     return a - b
 
-def mult(a, b):
-    return a * b
+def mult(p, r):
+    return p * r
 
 def div(a, b):
     return a / b
 
-def remainder(a,b):
-    return a % b
+def remainder(m,n):
+    return m % n
 
 print(" ** CALCULATOR ** ")
 print("Enter two numbers")
