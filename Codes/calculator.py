@@ -26,7 +26,7 @@ a = int(a) # This line converts whatever is stored in a to INTEGER Type and assi
 b = int(b) # This line converts whatever is stored in b to INTEGER Type and assigns that value to b again.
 
 #SO simply put, int function converts variables to INTEGER data type
-# And similiarly, there is an str() function which converts variables to STRING data type
+# And similiarly, there is a str() function which converts variables to STRING data type
 
 print("\n\nResults!")
 
