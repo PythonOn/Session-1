@@ -20,7 +20,7 @@ a = input()
 b = input()
 
 #Suppose user enters 3 and 5, Then a = "3", b = "5", "3" and "5" are strings
-#But we need a = 3, and not "3" and b = 5, and not "5", so it becomes integers and we can perform arithmetic operations.
+#But we need a = 3, and not "3" and b = 5, and not "5", so that they become integers and then we can perform arithmetic operations.
 
 a = int(a) # This line converts whatever is stored in a to INTEGER Type and assigns that value to a.
 b = int(b) # This line converts whatever is stored in b to INTEGER Type and assigns that value to b again.
